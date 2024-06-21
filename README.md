@@ -2,12 +2,12 @@
 
 Get up and running with large language models quickly and easily.
 
-## Installation
-### [Ollama](https://github.com/ollama/ollama/blob/main/README.md)
+## Set up
+### Download [Ollama]([https://github.com/ollama/ollama/blob/main/README.md](https://ollama.com/))
 
 
 ## Usage
-### To run a model, use the following commands:
+### To run a model, use the following commands on the terminal:
 * LLaMA 3
 ```
 ollama run llama
