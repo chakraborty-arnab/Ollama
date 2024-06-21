@@ -10,12 +10,10 @@ Get up and running with large language models quickly and easily.
 ## Usage
 To run a model, use the following commands:
 ### LLaMA 3
-bash 
 ```
 ollama run llama
 ```
 ### Phi-3
-bash
 ```
 ollama run phi-3
 ```
