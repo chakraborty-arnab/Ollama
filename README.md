@@ -22,6 +22,8 @@ ollama run phi-3
 ```
 pip install -r requirements.txt
 ```
+* Run the script
+```
 python chat.py
 ```
 
