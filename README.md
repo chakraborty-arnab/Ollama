@@ -3,8 +3,7 @@
 Get up and running with large language models quickly and easily.
 
 ## Installation
-### Ollama
-[Ollama](https://github.com/ollama/ollama/blob/main/README.md)
+### [Ollama](https://github.com/ollama/ollama/blob/main/README.md)
 
 
 ## Usage
