@@ -1,4 +1,4 @@
-# Large Language Model Runner
+# Run LLMs locally
 
 Get up and running with large language models quickly and easily.
 
