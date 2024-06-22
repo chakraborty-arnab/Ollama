@@ -26,5 +26,5 @@ pip install -r requirements.txt
 python chat.py
 ```
 
-## Demo [Link](https://youtu.be/U-5Hmj0qBQQ?si=2bp321S9VJJKPVyG)
+## [Inference Demo](https://youtu.be/U-5Hmj0qBQQ?si=2bp321S9VJJKPVyG)
 
